@@ -14,3 +14,7 @@ bash ./run.sh > "/opt/apps/sugarbaby/${TARGET}"
 cd -
 
 cp "${TARGET}" latest
+
+git add .
+git commit -m "Added sugardaddy data ${TARGET}"
+git push
