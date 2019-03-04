@@ -7,7 +7,6 @@ if [ ! -d "${FOLDER}" ]; then
     mkdir -p "${FOLDER}"
 fi
 
-cd /opt/apps/sugarbaby
 cd /opt/apps/sugardaddy
 
 bash ./run.sh > "/opt/apps/sugarbaby/${TARGET}"
