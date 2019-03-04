@@ -12,3 +12,5 @@ cd /opt/apps/sugardaddy
 bash ./run.sh > "/opt/apps/sugarbaby/${TARGET}"
 
 cd -
+
+cp "${TARGET}" latest
