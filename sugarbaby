@@ -1,2 +1,2 @@
-35 22 * * * aaron cd /opt/apps/sugarbaby && /opt/apps/sugarbaby/run.sh
+0 19 * * * aaron cd /opt/apps/sugarbaby && /opt/apps/sugarbaby/run.sh
 
