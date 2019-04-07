@@ -1,0 +1,21 @@
+Fund name                          Price       1M Momentum    3M Momentum    6M Momentum    9M Momentum    12M Momentum    >>Comp. Momentum<<    Price/MA3    **Price/MA6**    Price/MA9    Price/MA12
+---------------------------------  ----------  -------------  -------------  -------------  -------------  --------------  --------------------  -----------  ---------------  -----------  ------------
+Lansforsakringar Fastighetsfond A  4758.9671   6.38 %         17.68 %        17.21 %        23.80 %        35.09 %         19.99 %               4.70 %       11.57 %          12.80 %      15.44 %
+Swedbank Robur Access Usa          310.95      3.23 %         19.53 %        3.35 %         13.95 %        22.45 %         17.64 %               3.60 %       7.81 %           6.82 %       8.71 %
+Swedbank Robur Access Asien        261.32      2.67 %         19.01 %        11.25 %        10.05 %        9.30 %          16.37 %               3.65 %       8.93 %           8.61 %       7.70 %
+----------                         ----------  ----------     ----------     ----------     ----------     ----------      ----------            ----------   ----------       ----------   ----------
+Swedbank Robur Ny Teknik           865.06      3.97 %         19.02 %        2.28 %         1.01 %         18.81 %         15.52 %               4.22 %       8.80 %           4.99 %       4.60 %
+Handelsbanken Halsovard Tema       236.56      1.36 %         14.44 %        2.53 %         15.23 %        24.66 %         14.35 %               2.22 %       5.23 %           4.96 %       7.59 %
+Spiltan Aktiefond Investmentbolag  345.43      5.42 %         14.12 %        4.81 %         14.73 %        11.08 %         12.95 %               4.53 %       7.85 %           7.23 %       8.26 %
+Spp Aktiefond Japan                91.1048     1.53 %         12.03 %        -3.44 %        5.47 %         3.46 %          8.97 %                1.97 %       4.58 %           2.64 %       2.11 %
+Didner Gerge Smabolag              766.0205    2.19 %         11.38 %        -3.84 %        -0.33 %        5.63 %          8.11 %                2.73 %       4.39 %           1.28 %       0.59 %
+Danske Invest Select Usd           115.33      -0.07 %        3.89 %         3.42 %         7.82 %         12.42 %         5.09 %                0.76 %       2.27 %           2.88 %       4.02 %
+Pacific Precious A                 108.47      0.82 %         3.16 %         6.09 %         -0.81 %        2.21 %          2.96 %                0.43 %       2.77 %           3.49 %       2.18 %
+Amf Rantefond Lang                 147.55      0.51 %         0.65 %         1.38 %         0.96 %         1.44 %          0.84 %                0.37 %       0.64 %           0.78 %       0.85 %
+Spiltan Rantefond Sverige          122.18      0.20 %         0.53 %         0.24 %         0.48 %         0.70 %          0.51 %                0.19 %       0.29 %           0.30 %       0.35 %
+Ohman Penningmarknadsfond A        95.82       -0.03 %        -0.10 %        -0.32 %        -0.52 %        -0.69 %         -0.23 %               -0.03 %      -0.11 %          -0.21 %      -0.30 %
+
+>>Comp. Momentum<< is the sorted column.
+**Price/MA6** is the column which filters the data if less than 0.
+
+For help, run the program with --help or -h flag.
